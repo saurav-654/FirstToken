@@ -1,4 +1,4 @@
-# MyToken Smart Contract
+# MyToken 
 
 The `MyToken` smart contract is a basic token management system using Solidity. It has three public variables , mapping function , mint function and burn function. If statement is present in the burn function tomake sure the balance of "sender" is greater than or equal 
        to the amount that is supposed to be burned 
